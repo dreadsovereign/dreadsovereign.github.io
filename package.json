@@ -50,7 +50,7 @@
     "braces": "^3.0.2",
     "file-loader": "^0.8.5",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "lodash.template": "^4.5.0",
     "mime": "^2.4.4",
