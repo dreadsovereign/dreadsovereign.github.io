@@ -61,7 +61,7 @@
     "react-perf": "^1.0.1",
     "react-redux": "^4.1.1",
     "redux-thunk": "^1.0.3",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "tunnel-agent": "^0.6.0",
     "url-loader": "^0.5.7"
   }
